@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is TypeScript?",
+        "choices": [
+            "A superset of JavaScript that adds static typing",
+            "A variant of Python",
+            "A database management system",
+            "A style sheet language"
+        ],
+        "answer": "A superset of JavaScript that adds static typing"
+    },
+    {
+        "question": "Which command is used to install TypeScript via npm?",
+        "choices": [
+            "npm install -g typescript",
+            "npm install -g ts",
+            "npm install typescript",
+            "npm install ts"
+        ],
+        "answer": "npm install -g typescript"
+    },
+    {
+        "question": "What file extension is commonly used for TypeScript files?",
+        "choices": [
+            ".ts",
+            ".js",
+            ".tsx",
+            ".java"
+        ],
+        "answer": ".ts"
+    },
+    {
+        "question": "How do you compile a TypeScript file named 'example.ts' to JavaScript?",
+        "choices": [
+            "tsc example.ts",
+            "ts compile example.ts",
+            "node example.ts",
+            "ts compile-js example.ts"
+        ],
+        "answer": "tsc example.ts"
+    },
+    {
+        "question": "Which of the following is a TypeScript data type?",
+        "choices": [
+            "int",
+            "number",
+            "str",
+            "float"
+        ],
+        "answer": "number"
+    },
+    {
+        "question": "How do you define a variable in TypeScript?",
+        "choices": [
+            "var x: number = 5;",
+            "int x = 5;",
+            "let x = 5;",
+            "var x = number;"
+        ],
+        "answer": "var x: number = 5;"
+    },
+    {
+        "question": "What is the purpose of TypeScript interfaces?",
+        "choices": [
+            "To define the structure of objects",
+            "To add runtime type checking",
+            "To compile code faster",
+            "To replace classes"
+        ],
+        "answer": "To define the structure of objects"
+    },
+    {
+        "question": "Which keyword is used to define a constant variable in TypeScript?",
+        "choices": [
+            "const",
+            "constant",
+            "let",
+            "var"
+        ],
+        "answer": "const"
+    },
+    {
+        "question": "What will the following TypeScript code output? \n ```typescript\n let a: number = 10; \n console.log(typeof a);\n ```",
+        "choices": [
+            "number",
+            "10",
+            "undefined",
+            "object"
+        ],
+        "answer": "number"
+    },
+    {
+        "question": "Which of the following is true about TypeScript?",
+        "choices": [
+            "It is a strongly typed programming language built on JavaScript",
+            "It is only used for backend development",
+            "It cannot be used with React",
+            "It does not support object-oriented programming"
+        ],
+        "answer": "It is a strongly typed programming language built on JavaScript"
+    }
+]

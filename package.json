@@ -1,0 +1,26 @@
+{
+  "name": "wa03_quiz_game",
+  "version": "1.0.0",
+  "description": "This is a Quiz console app written in TypeScript. It prompts user MCQs. to reply with given choices.",
+  "main": "dist/main.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Quiz",
+    "inquirer",
+    "wa.siddiqui"
+  ],
+  "author": "wa.siddiqui",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  }
+}
