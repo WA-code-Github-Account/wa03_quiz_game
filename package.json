@@ -1,9 +1,10 @@
 {
   "name": "wa03_quiz_game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a Quiz console app written in TypeScript. It prompts user MCQs. to reply with given choices.",
-  "main": "dist/main.js",
+  "main": "index.js",
   "type": "module",
+  "bin": "dist/main.js",
   
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
