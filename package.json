@@ -4,7 +4,11 @@
   "description": "This is a Quiz console app written in TypeScript. It prompts user MCQs. to reply with given choices.",
   "main": "index.js",
   "type": "module",
+<<<<<<< HEAD
   "bin": "dist/main.js",
+=======
+  "bin": "dist/main.js"
+>>>>>>> 51ccdf229ea5589545a49d171a3b08fa53b7ac7d
   
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
